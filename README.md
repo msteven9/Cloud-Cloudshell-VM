@@ -1,1 +1,1 @@
-# gcp-automation-script
+# cloud-automation
