@@ -1,1 +1,1 @@
-# cloud-automation
+# cloud basics
